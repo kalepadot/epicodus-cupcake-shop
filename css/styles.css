@@ -1,0 +1,15 @@
+body {
+  position: relative;
+  text-align: center;
+  background-image: linear-gradient(to left top, #d531dc, #0092ff, #00c4ff, #00e1ec, #35f39f);
+} 
+
+.flashy {
+  color: darkred;
+  font-style:italic;
+}
+.best{
+  background-image: linear-gradient(to left top, #ffdd14, #ffc783, #ffcfda, #ffeaff, #fefefe);
+  border-color: pink;
+  border-style: double;
+}
